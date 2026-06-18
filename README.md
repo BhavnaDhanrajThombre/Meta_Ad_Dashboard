@@ -71,8 +71,13 @@ To open and interact with this project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone [https://github.com/your-username/ad-performance-analytics.git](https://github.com/your-username/ad-performance-analytics.git)
+   git clone (https://github.com/BhavnaDhanrajThombre/Meta_Ad_Dashboard.git)
    cd ad-performance-analytics
+
+Also view dashboard directly 
+    (https://app.powerbi.com/groups/me/reports/de7b1fdf-6c19-4a93-aa49-83490bbc83ff/bd684bb9b704d96a6020?experience=power-bi)
+
+
 Verify Data Assets: Ensure campaigns.csv, ads.csv, users.csv, and ad_events.csv are stored within the root or /data directory.
 
 Open in Power BI:
